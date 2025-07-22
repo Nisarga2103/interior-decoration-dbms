@@ -63,6 +63,7 @@ Stores transaction details (amount, method, date) per customer.
 cd backend
 npm install
 node index.js
+
 ### 💻 Frontend (HTML/CSS + Axios)
 
 ```bash
